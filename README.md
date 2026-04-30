@@ -21,9 +21,9 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 **Entrega CV utilizando la plantilla LaTeX**
 
-[Descarga mi CV en PDF](https://github.com/romeroofacu4-cyber/modulo-1/blob/main/CV_Facundo_Romero.pdf)
+[Descarga mi CV en PDF](https://github.com/romeroofacu4-cyber/modulo-1/blob/main/CV/CV_Facundo_Romero.zip)
 
-[Descarga el archivo zip. con todo el proyecto en LaTeX](https://github.com/romeroofacu4-cyber/modulo-1/blob/main/LNCS/Informe%20M%C3%B3dulo%201.pdf)
+[Descarga el archivo zip. con todo el proyecto en LaTeX](https://github.com/romeroofacu4-cyber/modulo-1/blob/main/CV/CV_Facundo_Romero.zip)
 
 **Uso del formato LNCS en LaTeX-Módulo 1**
 
