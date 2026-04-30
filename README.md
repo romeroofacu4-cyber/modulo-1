@@ -1,4 +1,4 @@
-# # Módulo 1
+# Módulo 1
 
 Este Repositorio esta destinado al módulo 1 de la materia 'Técnicas y herramientas modernas I', para visualizar un pdf con los diferentes comandos usandos en Latex, en Overleaf
 
@@ -23,7 +23,7 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 [Descarga mi CV en PDF](https://github.com/romeroofacu4-cyber/modulo-1/blob/main/CV_Facundo_Romero.pdf)
 
-[Descarga el archivo zip. con todo el proyecto en LaTeX]
+[Descarga el archivo zip. con todo el proyecto en LaTeX](https://github.com/romeroofacu4-cyber/modulo-1/blob/main/LNCS/Informe%20M%C3%B3dulo%201.pdf)
 
 **Uso del formato LNCS en LaTeX-Módulo 1**
 
