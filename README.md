@@ -21,12 +21,12 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 **Entrega CV utilizando la plantilla LaTeX**
 
-[Descarga mi CV en PDF]
+[Descarga mi CV en PDF](https://github.com/romeroofacu4-cyber/modulo-1/blob/main/CV_Facundo_Romero.pdf)
 
 [Descarga el archivo zip. con todo el proyecto en LaTeX]
 
 **Uso del formato LNCS en LaTeX-Módulo 1**
 
-[Descarga Informe LNCS en PDF](https://github.com/jarasantiago/modulo1/blob/main/LNCS_Santiago%20Jara/Informe%20M%C3%B3dulo%201.pdf)
+[Descarga Informe LNCS en PDF]
 
 [Descarga el archivo zip. con todo el proyecto en LaTeX](https://github.com/jarasantiago/modulo1/blob/main/LNCS_Santiago%20Jara/Informe%20M%C3%B3dulo%201.zip)
